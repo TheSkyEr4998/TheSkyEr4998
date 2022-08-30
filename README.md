@@ -23,7 +23,7 @@
 
 - 💓 I love designing websites and coding.
 
-- 📫 How to reach me **surveakash01@gmail.com**
+- 📫 How to reach me **ghoneniranjan@gmail.com**
 
 <br>
 
@@ -39,7 +39,7 @@
 <h2 align="center"><i>Tools | Use</i></h2>
 <p align="center">
   <a >
-    <img src="https://skillicons.dev/icons?i=bash,codepen,firebase,git,github,heroku,netlify,powershell,vscode,visualstudio," />
+    <img src="https://skillicons.dev/icons?i=bash,codepen,git,github,heroku,netlify,powershell,vscode," />
   </a>
 </p>
 
@@ -49,7 +49,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/theskyer4998/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
   <a title="ghoneniranjan@gmail.com" href="mailto:ghoneniranjan@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
-  <a href="https://wa.me/917028813613" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
+  <a href="https://wa.me/+917028813613" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
   <a href="https://akashsurve2377.netlify.app/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/2x/domain.png"  width="60px" alt="portfolio" /></a>
     <a href="https://twitter.com/Skydive4998" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  alt="portfolio" /></a>
 </p>
