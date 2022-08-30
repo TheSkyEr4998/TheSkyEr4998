@@ -13,7 +13,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://akashsurve2377.netlify.app/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `React JS`.
 
 - 🌱 I’m currently learning `MERN Stack`
 
@@ -23,7 +23,7 @@
 
 - 💓 I love designing websites and coding.
 
-- 📫 How to reach me **surveakash01@gmail.com**
+- 📫 How to reach me **ghoneniranjan@gmail.com**
 
 <br>
 
