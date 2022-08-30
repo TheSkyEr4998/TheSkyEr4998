@@ -59,15 +59,15 @@
 <br/>
 
 <div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Akash2377&show_icons=true&theme=midnight-purple" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash2377&layout=compact&theme=midnight-purple" />
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=TheSkyEr4998&show_icons=true&theme=midnight-purple" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSkyEr4998&layout=compact&theme=midnight-purple" />
 </div>
  <br />
-<p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Akash2377&theme=rogue" alt="activitygraph" /> </p>
+<p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=TheSkyEr4998&theme=rogue" alt="activitygraph" /> </p>
 <br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash2377&theme=vision-friendly-dark" alt=""/></p>
-<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Akash2377&theme=vue" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash2377&theme=tokyonight" alt="summarycard"/> </p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSkyEr4998&theme=vision-friendly-dark" alt=""/></p>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=TheSkyEr4998&theme=vue" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheSkyEr4998&theme=tokyonight" alt="summarycard"/> </p>
 <hr />
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
@@ -75,7 +75,7 @@
 <br>
 <h3 align="center"> 
   Visitor count <br>
-  <img src="https://profile-counter.glitch.me/Akash2377/count.svg" />
+  <img src="https://profile-counter.glitch.me/TheSkyEr4998/count.svg" />
 </h3>
 
 
