@@ -13,7 +13,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://akashsurve2377.netlify.app/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `REACT JS`.
 
 - 🌱 I’m currently learning `MERN Stack`
 
