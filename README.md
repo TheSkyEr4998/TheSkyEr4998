@@ -39,7 +39,7 @@
 <h2 align="center"><i>Tools | Use</i></h2>
 <p align="center">
   <a >
-    <img src="https://skillicons.dev/icons?i=bash,codepen,git,github,heroku,netlify,powershell,vscode," />
+    <img src="https://skillicons.dev/icons?i=bash,codepen,git,github,heroku,netlify,postman,vscode," />
   </a>
 </p>
 
