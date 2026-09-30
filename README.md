@@ -11,7 +11,7 @@
 
 <img  src="https://akashsurve.web.app/static/media/about.aee0f771fbfc1e7b8fa8.png" height="280px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Portfolio.](https://niranjan-ghone-portfolio.netlify.app/)**
+- 🙋‍♂️ All about me is at **[My Portfolio.](https://niranjan-portfolio-ai-developer.netlify.app/)**
 
 - 🔭 I’m currently working on `REACT JS`.
 
