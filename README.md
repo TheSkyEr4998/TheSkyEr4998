@@ -1,83 +1,80 @@
-
-<h1 align="center">Hi there! I'm Niranjan Ghone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
- <br>
-   
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ff004f&size=24&width=500&lines=Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
- <img  src="https://akashsurve2377.netlify.app/static/media/output-onlinegiftools.0137dac1.gif" height="100px" align="right" />
-  <br>
-  
-  
-   ## 👨🏻‍💻 About Me:
-
-<img  src="https://akashsurve.web.app/static/media/about.aee0f771fbfc1e7b8fa8.png" height="280px" align="right" />
-
-- 🙋‍♂️ All about me is at **[My Portfolio.](https://niranjan-portfolio-ai-developer.netlify.app/)**
-
-- 🔭 I’m currently working on `REACT JS`.
-
-- 🌱 I’m currently learning `MERN Stack`.
-
-- 👯 I’m looking to collaborate for `Projects`.
-
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned 
-
-- 💓 I love designing websites and coding.
-
-- 📫 How to reach me **ghoneniranjan@gmail.com**
-
-<br>
-
-
-<h2 align="center"><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
-<p align="center">
-  <a >
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,express,mongodb,nodejs," />
-  </a>
-</p>
-
-<!-- <img src="" alt="" /> -->
-<h2 align="center"><i>Tools Using...</i></h2>
-<p align="center">
-  <a >
-    <img src="https://skillicons.dev/icons?i=bash,codepen,git,github,heroku,netlify,powershell,vscode," />
-  </a>
-</p>
-
-
-<h2 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
+<h1 align="center">Hi, I'm Niranjan Ghone 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/theskyer4998/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-  <a title="ghoneniranjan@gmail.com" href="mailto:ghoneniranjan@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
-  <a href="https://wa.me/+917028813613" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
-  <a href="https://niranjan-ghone-portfolio.netlify.app/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/2x/domain.png"  width="60px" alt="portfolio" /></a>
-    <a href="https://twitter.com/Skydive4998" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  alt="portfolio" /></a>
+  <strong>AI Developer | Machine Learning • Python • Simulation</strong>
 </p>
 
+<p align="center">
+  Bringing a React development background to machine learning and AI application development.
+</p>
 
-<h2>📊  Github Stats</h2>
-<br/>
+<p align="center">
+  <a href="https://niranjan-portfolio-ai-developer.netlify.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/theskyer4998/">LinkedIn</a> •
+  <a href="mailto:ghoneniranjan@gmail.com">Email</a>
+</p>
 
-<div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=TheSkyEr4998&show_icons=true&theme=midnight-purple" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSkyEr4998&layout=compact&theme=midnight-purple" />
-</div>
- <br />
-<p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=TheSkyEr4998&theme=rogue" alt="activitygraph" /> </p>
-<br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSkyEr4998&theme=vision-friendly-dark" alt=""/></p>
-<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=TheSkyEr4998&theme=vue" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheSkyEr4998&theme=tokyonight" alt="summarycard"/> </p>
-<hr />
-<h3 align="center">
- Show some ❤️ by starring some of the repositories!
-</h3>
-<br>
-<h3 align="center"> 
-  Visitor count <br>
-  <img src="https://profile-counter.glitch.me/TheSkyEr4998/count.svg" />
-</h3>
+---
 
+## About Me
 
+- 🧠 Focused on AI development, machine learning, and scientific computing with Python.
+- 🎓 My MSc project explores interconnected actuation in shape-shifting robots through physics simulation and machine-learning surrogate modelling.
+- 💻 My React development background supports building interactive interfaces for technical applications.
+- 🔬 My project experience includes data generation, neural-network regression, model evaluation, and surrogate-guided inverse control.
+- 🤝 Open to AI developer and machine learning opportunities, alongside collaborations on applied AI projects.
 
+## Technical Skills
 
+| Area | Technologies and methods |
+|---|---|
+| **Machine Learning** | scikit-learn, multilayer perceptrons (MLPs), regression, feature scaling, model evaluation |
+| **Scientific Computing** | Python, NumPy, SciPy, Matplotlib |
+| **Simulation & Optimisation** | Physics-based simulation, surrogate modelling, constrained optimisation, agent-based modelling |
+| **Web Development** | JavaScript, React, Redux, HTML, CSS, Node.js, Express, MongoDB |
+| **Desktop Applications** | PySide6 |
+| **Development Tools** | Git, GitHub, VS Code, PowerShell, Netlify |
+
+## Featured Projects
+
+### Interconnected Actuation in Shape-Shifting Robots
+
+MSc project investigating a simulated actuator network and the use of a learned surrogate for predicting its behaviour and supporting inverse-control searches.
+
+- Physics-based modelling and simulation-generated datasets.
+- MLP regression for approximating simulator outputs.
+- Model evaluation and physics-based verification of candidate actuator commands.
+
+**Stack:** Python, NumPy, SciPy, scikit-learn, Matplotlib
+
+[Explore the repository →](https://github.com/TheSkyEr4998/Interconnected-Actuation-in-Shape-Shifting-Robots)
+
+### Social Learning in Bumblebee Foraging
+
+An educational agent-based simulation prototype inspired by research on social information use in bumblebees.
+
+- Interactive desktop interface for exploring flower-choice behaviour.
+- Configurable cue and reward-probability conditions.
+- Visualisation of agent choices and simulation history.
+
+**Status:** Prototype; not a validated reproduction of the reference study.
+
+**Stack:** Python, NumPy, Matplotlib, PySide6
+
+[Explore the repository →](https://github.com/TheSkyEr4998/Social-Learning-in-Bumblebee-Foraging)
+
+### Personal AI Portfolio
+
+A React portfolio presenting my technical background, projects, and development experience.
+
+**Stack:** React, JavaScript, HTML, CSS
+
+[Visit my portfolio →](https://niranjan-portfolio-ai-developer.netlify.app/)
+
+## Connect With Me
+
+I'm interested in opportunities where I can combine machine learning, Python, and application development to solve practical problems.
+
+- **Portfolio:** [View my work](https://niranjan-portfolio-ai-developer.netlify.app/)
+- **LinkedIn:** [Niranjan Ghone](https://www.linkedin.com/in/theskyer4998/)
+- **Email:** [ghoneniranjan@gmail.com](mailto:ghoneniranjan@gmail.com)
